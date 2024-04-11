@@ -1,8 +1,18 @@
-- 👋 Hi, I’m arunoda isuruwan
-- 👀 I’m interested in ecommerce application development
-- 🌱 I’m currently learning azure related technologies
-- 💞️ I’m looking to collaborate on ecommerce related project
-- 📫 Reach me through whatsapp - +94718527541
+👋 Hi, I’m Arunoda Isuruwan.
+
+👀 I’m an experienced software engineer specializing in eCommerce, banking, and cashiering domains.
+
+🌱 Currently, I'm advancing my skills in Azure-related technologies and pursuing Azure certifications.
+
+💼 Major Technologies: .NET, Angular, SQL Server
+
+📍 Based in Wellington, New Zealand 🇳🇿
+
+💬 Let's collaborate on eCommerce projects!
+
+📫 Reach me:
+- New Zealand: +64 22 807 3344
+- Email: arunoda89@gmail.com
 
 <!---
 wwarunoda/wwarunoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
